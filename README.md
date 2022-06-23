@@ -45,4 +45,4 @@ specifier scien is `%` like printf
 | `b` | print the value of a boolean `TRUE` or `FALSE` |
 
 ### NOTE
-The logger has a color support on Linux and MacOS, thought that feature is deactivated on Windows due to the fact that the escape sequence color support is limited to Powershell and Windows Terminal the original doesn't support them. Maybe I will implement the color support on Windows with `Windows.h` in a future version.
+The logger has a color support on Linux and MacOS, thought that feature is deactivated on Windows due to the fact that the escape sequence color support is limited to Powershell and Windows Terminal the original Windows Console doesn't support them. Maybe I will implement the color support on Windows with `Windows.h` in a future version.
