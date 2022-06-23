@@ -1,2 +1,4 @@
 # logger
-A simple C++ logger
+A simple, header-only C++ logger.
+
+
