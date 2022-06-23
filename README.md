@@ -18,7 +18,7 @@ LOG_ERROR(format);
 LOG_ERROR_EXT(format, ...);
 ```
 They basically do all work the same way:
-`LOG_"LOGTYPE"` or `LOG_"LOGTYPE"_EXT`, the `_EXT` stands for extendet and allows you to pass variable length arguments to log function, 
+`LOG_"LOGTYPE"` or `LOG_"LOGTYPE"_EXT`, the `_EXT` stands for extendet and allows you to pass variable length arguments to the log function, 
 so you can use it as a simple `printf`-function. 
 
 
